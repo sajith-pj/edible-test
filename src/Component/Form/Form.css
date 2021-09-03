@@ -1,0 +1,26 @@
+.form-background{
+    width: 100%;
+    height: 70vh;
+    background-image: url('https://images.unsplash.com/photo-1583220884793-71f1162fdce2?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGtlcmFsYSUyMGZvb2R8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.form-overlay{
+    background: rgba(0,0,0,0.2);
+}
+
+.form{
+    height: 240px;
+}
+
+.form-input{
+    background:#F2F2F2 ;
+}
+
+.send-now-btn{
+    width: 150px;
+    height: 100%;
+    background: green;
+    color: white;
+
+}

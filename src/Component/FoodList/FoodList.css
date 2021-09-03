@@ -1,0 +1,32 @@
+.food-list{
+    height: 100vh;
+}
+
+.default-menu{
+    width: 231px;
+    height: 44px;
+    background: #F6E200;
+}
+
+.proceedd-btn{
+    width: 200px;
+    height: 40px;
+    background-color: #27A12F;
+    color: white;
+    font-weight: 600;
+    border-radius: 30px;
+}
+
+.react-date-picker{
+    display: none;
+}
+
+.react-date-picker__calendar{
+    bottom: 0;
+}
+.rmdp-calendar   {
+    background: white !important;
+}
+.rmdp-shadow{
+    box-shadow: none !important;
+}
